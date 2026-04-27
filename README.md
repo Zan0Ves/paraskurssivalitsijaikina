@@ -1,6 +1,7 @@
 # 🎓 Wilma Kurssivalitsin
 
 > Automaattinen kurssienvalintaohjelma Wilmaan — ei koodausosaamista tarvita!
+> [**VIDEO OHJE**](https://youtu.be/kjdQIRLJyOA)
 <img width="894" height="719" alt="image" src="https://github.com/user-attachments/assets/2a5491e7-3b4c-47da-97a3-92c51eb285cd" />
 
 ---
