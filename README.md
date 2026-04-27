@@ -1,6 +1,6 @@
 # 🎓 Wilma Kurssivalitsin
 
-> Automaattinen kurssienvalintaohjelma Wilma-opintojärjestelmään — ei koodausosaamista tarvita!
+> Automaattinen kurssienvalintaohjelma Wilmaan — ei koodausosaamista tarvita!
 
 ---
 
@@ -22,55 +22,6 @@ Tämä ohjelma avaa Wilman automaattisesti, kirjautuu sisään puolestasi ja val
 
 ---
 
-## 🛠️ EXE-tiedoston rakentaminen itse
-
-Haluatko paketoida ohjelman itse tai jakaa sen kavereille? Seuraa näitä ohjeita.
-
-### Mitä tarvitset
-
-- Windows-tietokone
-- Google Chrome asennettuna
-- Python (ilmainen) — **vain rakentamiseen**
-
----
-
-### Vaihe 1 — Lataa tiedostot
-
-Lataa nämä kaksi tiedostoa **samaan kansioon** (esim. `C:\Wilma\`):
-
-- `wilma_valitsin.py`
-- `build_exe.bat`
-
----
-
-### Vaihe 2 — Asenna Python
-
-1. Mene osoitteeseen: https://www.python.org/downloads/
-2. Klikkaa isoa **"Download Python"** -nappia
-3. Avaa ladattu tiedosto
-4. ⚠️ **TÄRKEÄÄ:** Laita ruksi kohtaan **"Add Python to PATH"**
-5. Klikkaa **Install Now** ja odota
-
----
-
-### Vaihe 3 — Rakenna EXE
-
-1. Mene kansioon johon tallensit tiedostot
-2. **Tuplaklikkaa `build_exe.bat`**
-3. Musta ikkuna aukeaa ja teksti juoksee — odota rauhassa (voi kestää 1–3 min)
-4. Kun se sulkeutuu tai lukee "Valmis!", löydät ohjelman kansiosta `dist\`
-
-```
-📁 C:\Wilma\
-   ├── wilma_valitsin.py
-   ├── build_exe.bat
-   └── 📁 dist\
-       └── ✅ WilmaKurssivalitsin.exe   ← tämä on valmis ohjelma!
-```
-
-5. Siirrä `WilmaKurssivalitsin.exe` haluamaasi paikkaan — voit jakaa sen kavereille!
-
----
 
 ## 🖥️ Ohjelman käyttäminen
 
@@ -181,3 +132,57 @@ Avaa uusi **Issue** tähän GitHub-repoon ja kuvaile mitä tapahtui. Liitä muka
 ---
 
 *Tehty helpottamaan kurssienvalintaa 🎒*
+
+
+
+
+## 🛠️ EXE-tiedoston rakentaminen itse
+
+Haluatko paketoida ohjelman itse tai jakaa sen kavereille? Seuraa näitä ohjeita.
+
+### Mitä tarvitset
+
+- Windows-tietokone
+- Google Chrome asennettuna
+- Python (ilmainen) — **vain rakentamiseen**
+
+---
+
+### Vaihe 1 — Lataa tiedostot
+
+Lataa nämä kaksi tiedostoa **samaan kansioon** (esim. `C:\Wilma\`):
+
+- `wilma_valitsin.py`
+- `build_exe.bat`
+
+---
+
+### Vaihe 2 — Asenna Python
+
+1. Mene osoitteeseen: https://www.python.org/downloads/
+2. Klikkaa isoa **"Download Python"** -nappia
+3. Avaa ladattu tiedosto
+4. ⚠️ **TÄRKEÄÄ:** Laita ruksi kohtaan **"Add Python to PATH"**
+5. Klikkaa **Install Now** ja odota
+
+---
+
+### Vaihe 3 — Rakenna EXE
+
+1. Mene kansioon johon tallensit tiedostot
+2. **Tuplaklikkaa `build_exe.bat`**
+3. Musta ikkuna aukeaa ja teksti juoksee — odota rauhassa (voi kestää 1–3 min)
+4. Kun se sulkeutuu tai lukee "Valmis!", löydät ohjelman kansiosta `dist\`
+
+```
+📁 C:\Wilma\
+   ├── wilma_valitsin.py
+   ├── build_exe.bat
+   └── 📁 dist\
+       └── ✅ WilmaKurssivalitsin.exe   ← tämä on valmis ohjelma!
+```
+
+5. Siirrä `WilmaKurssivalitsin.exe` haluamaasi paikkaan — voit jakaa sen kavereille!
+
+---
+
