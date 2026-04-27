@@ -57,7 +57,7 @@ Tuplaklikkaa `WilmaKurssivalitsin.exe`. Ohjelma näyttää tältä:
 |--------|---------------|
 | **Sähköposti** | Wilma-tunnuksesi sähköpostiosoite |
 | **Salasana** | Wilma-salasanasi |
-| **Wilma-URL** | Jätä oletusarvo, tai vaihda oman koulusi Wilma-linkki |
+| **Wilma-URL** | Liitä tähän oman kurssitarjottimesi linkki |
 
 ---
 
