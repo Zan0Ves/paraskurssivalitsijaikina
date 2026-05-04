@@ -35,18 +35,18 @@ Tuplaklikkaa `WilmaKurssivalitsin.exe`. Ohjelma näyttää tältä:
 ┌──────────────────────────────────────────────────────┐
 │  WILMA  kurssivalitsin                               │
 ├──────────────────────────────────────────────────────┤
-│  🔐 Kirjautumistiedot    📅 Valittavat kurssit       │
+│  🔐 Kirjautumistiedot    📅 Valittavat kurssit      │
 │                                                      │
 │  Sähköposti              1. Periodi                  │
-│  [sinun@email.fi      ]  [BIO1.i, MAA05.1         ] │
+│  [sinun@email.fi      ]  [BIO1.3, MAA05.1         ]  │
 │                                                      │
 │  Salasana                2. Periodi                  │
-│  [●●●●●●●●●●●●●●●●●●  ]  [FI02.1, ENA03.c        ] │
+│  [●●●●●●●●●●●●●●●●●●  ]  [FI02.1, ENA03.2        ]   │
 │                                                      │
 │  Wilma-URL               3. Periodi                  │
 │  [helsinki.inschool...  ] [MAT04.2, YH01.1         ] │
 │                                                      │
-│  [ ▶ KÄYNNISTÄ VALINTA ]                            │
+│  [ ▶ KÄYNNISTÄ VALINTA ]                             │
 │  [ 💾 Tallenna asetukset ]                           │
 └──────────────────────────────────────────────────────┘
 ```
@@ -70,15 +70,15 @@ Kirjoita haluamasi kurssikoodit **täsmälleen niin kuin ne näkyvät Wilmassa.*
 Voit erotella kurssit pilkulla tai laittaa jokaisen omalle rivilleen:
 
 ```
-BIO1.i, MAA05.1, ENA01.+ENA02.g
+BIO1.3, MAA05.1, ENA01.+ENA02.1
 ```
 
 tai
 
 ```
-BIO1.i
+BIO1.1
 MAA05.1
-ENA01.+ENA02.g
+ENA01.+ENA02.4
 ```
 
 > 💡 Kurssikoodit löydät Wilman kurssivalintasivulta — ne ovat pieniä tekstejä kurssinappeissa
